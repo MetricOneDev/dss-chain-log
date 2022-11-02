@@ -1,17 +1,21 @@
 # dss-chain-log
-![Build Status](https://github.com/makerdao/dss-chain-log/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
 
 An auth-managed on-chain changelog for the MCD system
 
 ## Usage
 
-Contract Address: `0xdA0Ab1e0017DEbCd72Be8599041a2aa3bA7e740F`
+[//]: # (Contract Address: `0xdA0Ab1e0017DEbCd72Be8599041a2aa3bA7e740F`)
 
-* [Mainnet](https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code)
-* [Kovan](https://kovan.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code)
-* [Goerli](https://goerli.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code)
-* [Rinkeby](https://rinkeby.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code)
-* [Ropsten](https://ropsten.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code)
+[//]: # ()
+[//]: # (* [Mainnet]&#40;https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code&#41;)
+
+[//]: # (* [Kovan]&#40;https://kovan.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code&#41;)
+
+[//]: # (* [Goerli]&#40;https://goerli.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code&#41;)
+
+[//]: # (* [Rinkeby]&#40;https://rinkeby.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code&#41;)
+
+[//]: # (* [Ropsten]&#40;https://ropsten.etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f#code&#41;)
 
 ### Public functions
 
